@@ -1,0 +1,20 @@
+[
+  {
+    "key": 0,
+    "img": "/imgs/0.png",
+    "title": "Sed ut perspiciatis",
+    "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem."
+  },
+  {
+    "key": 1,
+    "img": "/imgs/1.png",
+    "title": "Lorem ipsum dolor",
+    "content": "Amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis."
+  },
+  {
+    "key": 2,
+    "img": "/imgs/2.png",
+    "title": "Nemo enim ipsam",
+    "content": "Consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor."
+  }
+]
